@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-img align="right" alt="breakertt's GitHub Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=breakertt&show_icons=true">
+<img align="right" alt="breakertt's GitHub Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=breakertt&show_icons=true">
 
 You can call me 大川 or Ricky.
 
