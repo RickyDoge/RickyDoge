@@ -35,6 +35,7 @@ Preparing for working at ■■■■■■.
   - Redis
   - ZooKeeper
   - Tensorflow
+  - Flask
  
 #### 📫 Personal Website && Blog
 - Still Building
