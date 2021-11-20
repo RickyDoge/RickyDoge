@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+
+<!--
 <img align="right" alt="breakertt's GitHub Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=RickyDoge&show_icons=true">
+-->
 
 You can call me 大川 or Ricky.
 
